@@ -1,4 +1,4 @@
-# Generic OLG Model with Finance-Informed Neural Networks (FINN)
+# Generic OLG Model with Finance-Informed Neural Networks (FINNs)
 
 A computational framework for solving overlapping generations (OLG) models with capital accumulation and aggregate productivity shocks using Finance-Informed Neural Networks (FINN) and policy iteration.
 
