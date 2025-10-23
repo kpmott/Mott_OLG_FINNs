@@ -16,6 +16,8 @@ The FINN framework satisfies equilibrium conditions and prevents pathological so
 - Mott (2025) "Student Loan (Forgiveness) in General Equilibrium"
 - Mott (2025) "Real and Asset Pricing Effects of Employer Retirement Matching"
 
+Suggested citations for these papers are available below.
+
 The model is designed to be easily adapted for specific research questions by replacing the income calibration in `datawork.py`, model parameters in `parameters.py`, data creation in `dataset.py`, and equilibrium allocations in `econ_sim.py`.
 
 ## Key Features
