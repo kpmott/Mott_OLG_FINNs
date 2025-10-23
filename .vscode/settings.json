@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./data"
+    ],
+    "python.REPL.enableREPLSmartSend": false,
+    "chatgpt.openOnStartup": false
+}
