@@ -329,7 +329,8 @@ If you're interested in applications of the FINN framework to specific economic 
   author = {Mott, Kevin P.},
   title = {Real and Asset Pricing Effects of Employer Retirement Matching},
   year = {2025},
-  note = {Working Paper}
+  note = {Working Paper},
+  url = {https://dx.doi.org/10.2139/ssrn.5691382}
 }
 ```
 
